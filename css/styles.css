@@ -11,6 +11,12 @@ ul {
 }
   .header-logo-black {
     color:#2E2F42;
+font-family: Raleway;
+font-size: 18px;
+font-weight: 700;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
 
   }
   .header-logo {
@@ -131,17 +137,17 @@ text-transform: capitalize;
   }
   .portfolio-subtitle {
     color: #2E2F42;
-font-size: 20px;
-font-weight: 500;
-line-height: 1.2;
-letter-spacing: 0.02em;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
   }
   .portfolio-item-text {
-    color: #434455;
-font-size: 16px;
-font-weight: 400;
-line-height: 1.5;
-letter-spacing: 0.02em;
+    color:#434455;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
   }
   .footer-logo-white {
     color: #f4f4fd;
@@ -173,9 +179,6 @@ letter-spacing: 0.02em;
   }
   .footer {
     background: #2E2F42;
-  }
-  .team-list {
-    background: #FFF;
   }
   .header-address {
     font-style: normal;
