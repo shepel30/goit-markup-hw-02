@@ -22,15 +22,15 @@ line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
   }
-  .header-menu-studio {
+  .header-menu-link {
     color: #2e2f42;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em 
   }
-  .header-menu-studio:hover,
-  .header-menu-studio:focus {
+  .header-menu-link:hover,
+  .header-menu-link:focus {
     color: #404bbf;
   }
   .header-menu-link {
@@ -61,7 +61,7 @@ letter-spacing: 0.02em;
   font-size: 56px;
   font-weight: 700;
   line-height: 1.07;
-  letter-spacing: 0.02 em.}
+  letter-spacing: 0.02 em}
   .solutions-btn {
 background: #4D5AE5;
 color: #FFF;
