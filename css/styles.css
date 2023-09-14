@@ -42,7 +42,6 @@ letter-spacing: 0.02em;
   }
   .header-menu-link:hover {
     color: #404BBF;
-    text-decoration: underline;
   }
 
   .header-address-link {
