@@ -29,7 +29,9 @@ text-transform: uppercase;
     line-height: 1.5;
     letter-spacing: 0.02em 
   }
-  .header-menu-link:hover,
+  .header-menu-link:hover {
+    color: #404bbf;
+  }
   .header-menu-link:focus {
     color: #404bbf;
   }
