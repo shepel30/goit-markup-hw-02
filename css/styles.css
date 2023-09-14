@@ -1,5 +1,5 @@
 body {
-    font-family: "Roboto", sans-serif
+    font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #FFF;
 }
@@ -51,9 +51,7 @@ letter-spacing: 0.02em;
   line-height: 1.07;
   letter-spacing: 0.02 em.}
   .solutions-btn {
-    border-radius: 4px;
 background: #4D5AE5;
-box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 color: #FFF;
 font-size: 16px;
 font-weight: 500;
