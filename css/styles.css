@@ -180,8 +180,3 @@ letter-spacing: 0.02em;
   .header-address {
     font-style: normal;
   }
-  .header-menu-main:hover,
-  .header-menu-main:focus {
-    color: #404bbf
-
-  }
