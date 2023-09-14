@@ -45,15 +45,16 @@ letter-spacing: 0.02em;
     text-decoration: underline;
   }
 
-  .header-address-item {
-    color: #2e2f42;
+  .header-address-link {
+    color: #434455;
 font-size: 16px;
 font-weight: 500;
 line-height: 1.5;
 letter-spacing: 0.02em;
   }
-  .header-address-link:hover {
-    color: #404BBF
+  .header-address-link:hover
+  .header-address-link:focus {
+    color:  #404bbf
   }
   .solutions-title {
     color: #FFF;
