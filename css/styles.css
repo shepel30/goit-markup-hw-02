@@ -33,10 +33,11 @@ letter-spacing: 0.02em;
     color: #404BBF;
     text-decoration: underline;
   }
-  .header-address-link {
-    color: #434455;
+
+  .header-address-item {
+    color: #2e2f42;
 font-size: 16px;
-font-weight: 400;
+font-weight: 500;
 line-height: 1.5;
 letter-spacing: 0.02em;
   }
